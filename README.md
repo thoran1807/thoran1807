@@ -48,12 +48,12 @@
 ### 📈 Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thoran&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thoran&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thoran1807&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thoran1807&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thoran&theme=tokyonight&hide_border=true" width="96%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thoran1807&theme=tokyonight&hide_border=true" width="96%" />
 </p>
 
 ---
