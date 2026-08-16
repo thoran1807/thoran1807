@@ -9,8 +9,11 @@
 
 ### 📌 About Me
 
-- 🎓 **Academics**: CS Undergrad @ **IIIT Hyderabad**
-- 🧩 **Focus**: Low-Level Systems, RISC-V Architecture, Cyber Security & CTFs
+Computer Science undergrad at **IIIT Hyderabad** focused on low-level computing, systems architecture, and security engineering.
+
+- 🎓 **Academics**: B.Tech in CS & Engineering @ **IIIT Hyderabad**
+- 🛡️ **Specializations**: Low-Level Systems • Cyber Security & CTFs • Algorithm Design
+- 🚀 **Building**: High-performance engines, embedded prototypes & utility systems
 
 ---
 
