@@ -11,7 +11,6 @@
 
 - 🎓 **Academics**: CS Undergrad @ **IIIT Hyderabad**
 - 🧩 **Focus**: Low-Level Systems, RISC-V Architecture, Cyber Security & CTFs
-- 📜 **Resume**: [View CV](https://drive.google.com/drive/folders/1SKPwoHOKPdrwR9WGrl7Ch_jR5-N5Expz?usp=sharing)
 
 ---
 
